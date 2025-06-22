@@ -23,6 +23,6 @@
     "demo": [],
     "images": [],
     "installable": True,
-    "auto_install": False,
+    "auto_install": True,
     "application": False,
 }
